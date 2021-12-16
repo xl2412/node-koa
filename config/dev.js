@@ -1,5 +1,5 @@
 const dev = {
-    tempFilePath:'/file'
+    tempFilePath:'/file',
 }
 
 module.exports = dev

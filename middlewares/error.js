@@ -1,3 +1,4 @@
+//捕捉请求异常的情况
 const error = () => {
     return async (ctx, next) => {
       try {
